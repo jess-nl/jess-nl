@@ -6,7 +6,9 @@
 <br>
 <sup>🧃 Formely, softwave dev at music tech startup [@LandrAudio](https://github.com/LandrAudio) & B2B [@Perimeter](https://github.com/perimetre).</sup>
 <br>
-<sup>💕 Music maker, mom of Japanese dolls, thriller movie buff & Rubik's Cube addict.</sup>
+<sup>🍧 Je parle français! ¡Yo hablo español!</sup>
+<br>
+<sup>💕 Music maker, thriller movie buff & Rubik's Cube addict.</sup>
 
 <sup>✧ <a href="https://www.linkedin.com/in/jess-nl/" target="_blank">LinkedIn</a></sup>
 
