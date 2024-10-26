@@ -8,7 +8,7 @@
 <br>
 <sup>🍧 Je parle français! ¡Yo hablo español!</sup>
 <br>
-<sup>💕 Music maker, thriller movie buff & Rubik's Cube addict.</sup>
+<sup>💕 Music maker, horror movie buff & Rubik's Cube addict.</sup>
 
 <sup>✧ <a href="https://www.linkedin.com/in/jess-nl/" target="_blank">LinkedIn</a></sup>
 
