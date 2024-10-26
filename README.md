@@ -2,9 +2,9 @@
 
 <sup>🧠 Presently brushing up algos & data structures. Working on a few mini .NET projects.</sup>
 <br>
-<sup>💅🏼 Open for opportunities in a _cutting edge_ enterprise.</sup>
+<sup>💅🏼 Currently, software dev at [National Film Board of Canada](https://www.nfb.ca/).</sup>
 <br>
-<sup>🧃 Formely, softwave dev at music tech startup [@LandrAudio](https://github.com/LandrAudio) & B2B [@Perimeter](https://github.com/perimetre).</sup>
+<sup>🧃 Formely, softwave dev at music tech startup [@LandrAudio](https://github.com/LandrAudio).</sup>
 <br>
 <sup>🍧 Je parle français! ¡Yo hablo español!</sup>
 <br>
