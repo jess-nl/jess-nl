@@ -1,8 +1,8 @@
 **<sup>.NET, SQL database & cloud enthusiast</sup>**
 
-<sup>🧠 Presently brushing up algos & data structures. Working on a few mini .NET projects.</sup>
+<sup>🧠 Presently mentoring & creating a mini [@MonoGame](https://github.com/MonoGame/MonoGame) combat game.</sup>
 <br>
-<sup>💅🏼 Currently, software dev at [National Film Board of Canada](https://www.nfb.ca/).</sup>
+<sup>💅🏼 Currently, software dev at [National Film Board of Canada](https://www.linkedin.com/company/national-film-board-of-canada/).</sup>
 <br>
 <sup>🧃 Formely, softwave dev at music tech startup [@LandrAudio](https://github.com/LandrAudio).</sup>
 <br>
