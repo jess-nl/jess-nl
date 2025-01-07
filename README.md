@@ -1,6 +1,6 @@
 **<sup>.NET, SQL database & cloud enthusiast</sup>**
 
-<sup>🧠 Presently mentoring & creating a mini [@MonoGame](https://github.com/MonoGame/MonoGame) combat game.</sup>
+<sup>🧠 Presently mentoring & brushing up Python.</sup>
 <br>
 <sup>💅🏼 Currently, software dev at [National Film Board of Canada](https://www.linkedin.com/company/national-film-board-of-canada/).</sup>
 <br>
